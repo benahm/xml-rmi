@@ -1,0 +1,22 @@
+ * @author Mario Matar
+ * @author Ahmed Bensaad
+ 
+ Protocole Error
+
+Définie le protocole d'erreur entre le serveur et le client
+Lorsque une erreur arrive dans le serveur, le client est informé,
+il ressoit un code d'erreur indiquant la catégorie de l'erreur 
+et un message explicitant l'erreur 
+ 
+La forme de l'erreur est définie dans 
+la specification XML-RPC : http://xmlrpc.scripting.com/spec.html 
+
+Number		Cause
+-------------------------------------------------------------------------------
+-1		|	Non précisé
+100		|	Dû au serveur, et sans rapport avec le traitement 
+		|	de l'appel distant
+200		|	Mauvaise construction du document XML		
+300		|	Appele de méthode échoué
+		|
+		|

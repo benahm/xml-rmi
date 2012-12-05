@@ -1,0 +1,37 @@
+
+<methodCall>
+	<methodName>makeSumTabObj</methodName>
+	<params>
+		<param>
+			<value>
+				<array>
+					<data>
+						<value>
+							<object oid="aladyn.com/xml-rmi/234">
+								<fields></fields>
+								<methods>
+									<method language="java">public double getX() { return 10.0; }
+									</method>
+									<method language="java">public double getY() { return 10.0; }
+									</method>
+								</methods>
+							</object>
+						</value>
+						<value>
+							<object oid="aladyn.com/xml-rmi/122">
+								<fields></fields>
+								<methods>
+									<method language="java">public double getX() { return 10.0; }
+									</method>
+									<method language="java">public double getY() { return 10.0; }
+									</method>
+								</methods>
+							</object>
+						</value>
+					</data>
+				</array>
+			</value>
+		</param>
+
+	</params>
+</methodCall>

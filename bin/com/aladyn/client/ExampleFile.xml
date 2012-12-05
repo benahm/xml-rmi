@@ -1,0 +1,30 @@
+<methodResponse>
+	<params>
+		<param>
+			<value><string>void</string></value>
+		</param>
+		<param>
+			<value>
+				<object oid="aladyn.com/xml-rmi/101">
+					<fields>
+						<field name="x">
+							<value>
+								<double>10.0</double>
+							</value>
+						</field>
+						<field name="y">
+							<value>
+								<double>20.0</double>
+							</value>
+						</field>
+						<field name="mark">
+							<value>
+								<string>@</string>
+							</value>
+						</field>
+					</fields>
+				</object>
+			</value>
+		</param>
+	</params>
+</methodResponse>

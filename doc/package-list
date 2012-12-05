@@ -1,0 +1,13 @@
+com.aladyn
+com.aladyn.client
+com.aladyn.client.exception
+com.aladyn.client.objects
+com.aladyn.client.params
+com.aladyn.client.params.exception
+com.aladyn.parser
+com.aladyn.parser.exception
+com.aladyn.server
+com.aladyn.server.exception
+com.aladyn.server.objects
+com.aladyn.server.relaxng
+com.aladyn.shared.interfaces

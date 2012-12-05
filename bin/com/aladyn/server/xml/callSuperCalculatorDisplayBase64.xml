@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<methodCall>
+	<methodName>displayBase64</methodName>
+	<params>
+		<param><value><base64>adfkirjn</base64></value></param>
+	</params>
+</methodCall>

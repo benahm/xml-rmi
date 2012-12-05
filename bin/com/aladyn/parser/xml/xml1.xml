@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<methodCall>
+	<methodName>makeSum</methodName>
+	<params>
+		<param><value><int>41</int></value></param>
+		<param><value><boolean> 0 </boolean></value></param>
+		<param><value><double>42</double></value></param>
+		<param><value><string>hello</string></value></param>
+		<param><value><dateTime.iso8601>20121013T01:19:01</dateTime.iso8601></value></param>
+		<param><value><base64>58236485</base64></value></param>
+	</params>
+</methodCall>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<methodCall>
+	<methodName>displayString</methodName>
+	<params>
+		<param><value><string>hello world</string></value></param>
+	</params>
+</methodCall>

@@ -1,0 +1,26 @@
+ * @author Mario Matar
+ * @author Ahmed Bensaad
+ 
+ Protocole Registry
+
+Ce protocole régis la communication entre le client et registre
+Le registre indique à un client, se connectant sur le 
+socket du registre (le port est définie à l'avance, ici 5000),
+à quel port est associé la classe partagé 
+
+numeroPort		Signification 
+----------------------------------------------------
+> 0 		|	comportement normal 
+= 0  		|	la classe partagé n'existe pas 
+			|
+
+
+
+client ----String nomAbsolueDeLaClasse-----> registre
+													  |	
+ 													  |
+ 													  V
+client <--------- int numeroPort ----------- registre
+
+
+

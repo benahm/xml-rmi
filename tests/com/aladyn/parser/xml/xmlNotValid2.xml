@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<racinebalise>
+	<innerbalise id="1">
+		<Emptybalise/>
+	</innerbalise>
+	<toto>
+		<toto>
+		</toto>
+	</toto>
+	<innerbalise id="2">
+	</innerbalise>
+</racinebalise>

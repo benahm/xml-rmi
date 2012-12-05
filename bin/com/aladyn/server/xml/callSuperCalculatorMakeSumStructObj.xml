@@ -1,0 +1,39 @@
+<methodCall>
+	<methodName>makeSumStructObj</methodName>
+	<params>
+		<param>
+			<value>
+				<struct>
+					<member>
+						<name>a</name>
+						<value>
+							<object oid="aladyn.com/xml-rmi/181">
+								<fields></fields>
+								<methods>
+									<method language="java">public double getX() { return 10.0; }
+									</method>
+									<method language="java">public double getY() { return 10.0; }
+									</method>
+								</methods>
+							</object>
+						</value>
+					</member>
+					<member>
+						<name>b</name>
+						<value>
+							<object oid="aladyn.com/xml-rmi/192">
+								<fields></fields>
+								<methods>
+									<method language="java">public double getX() { return 10.0; }
+									</method>
+									<method language="java">public double getY() { return 10.0; }
+									</method>
+								</methods>
+							</object>
+						</value>
+					</member>
+				</struct>
+			</value>
+		</param>
+	</params>
+</methodCall>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<methodCall>
+	<methodName>displayDate</methodName>
+	<params>
+		<param><value><dateTime.iso8601>20121013T01:19:01</dateTime.iso8601></value></param>
+	</params>
+</methodCall>

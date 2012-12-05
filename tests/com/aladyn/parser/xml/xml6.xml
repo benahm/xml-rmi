@@ -1,0 +1,57 @@
+<methodCall>
+	<methodName>makeSum</methodName>
+	<params>
+		<param>
+			<value>
+				<struct>
+					<member>
+						<name>lowerBound</name>
+						<value>
+							<i4>18</i4>
+						</value>
+					</member>
+					<member>
+						<name>upperBound</name>
+						<value>
+							<i4>139</i4>
+						</value>
+					</member>
+
+					<member>
+						<name>array</name>
+						<value>
+							<array>
+								<data>
+									<value>
+										<i4>12</i4>
+									</value>
+									<value>
+										<string>Egypt</string>
+									</value>
+									<value>
+										<boolean>0</boolean>
+									</value>
+									<value>
+										<i4>-31</i4>
+									</value>
+									<value>
+										<object oid="aladyn.com/xml-rmi/101">
+											<fields></fields>
+											<methods>
+												<method language="java">public double getX() { return 10.0;
+													}</method>
+												<method language="java">public double getY() { return 10.0;
+													}</method>
+											</methods>
+										</object>
+									</value>
+								</data>
+							</array>
+						</value>
+					</member>
+
+				</struct>
+			</value>
+		</param>
+	</params>
+</methodCall>

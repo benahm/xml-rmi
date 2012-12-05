@@ -1,0 +1,12 @@
+<methodCall>
+	<methodName>makeSumObj</methodName>
+	<params>
+		<param>  <value> <object oid="aladyn.com/xml-rmi/11101">
+			<fields></fields>
+			<methods>
+				<method language="java">public double getX() { return 10.0; }</method>
+				<method language="java">public double getY() { return 10.0; }</method>
+			</methods>
+		</object> </value> </param>
+	</params>  
+</methodCall>

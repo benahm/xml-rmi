@@ -1,0 +1,17 @@
+
+<object oid="aladyn.com/xml-rmi/201" >
+<fields>
+	<field name ="i">
+		<value>
+			<int>222</int>
+		</value>
+	</field>
+		<field name = "d">
+			<value>
+				<double>0.8888</double>
+			</value>
+		</field>
+</fields>
+<methods>
+</methods>
+</object>

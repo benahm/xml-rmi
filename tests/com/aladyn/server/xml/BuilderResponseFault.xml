@@ -1,0 +1,18 @@
+<methodResponse>
+   <fault>
+      <value>
+         <struct>
+            <member>
+               <name>faultString</name>
+               <value><string>JUnit</string></value>
+            </member>
+               
+            <member>
+               <name>faultCode</name>
+               <value><int>300</int></value>
+             </member>
+
+            </struct>
+         </value>
+      </fault>
+   </methodResponse>

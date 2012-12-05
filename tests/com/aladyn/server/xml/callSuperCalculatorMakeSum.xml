@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<methodCall>
+	<methodName>makeSum</methodName>
+	<params>
+		<param><value><int>41</int></value></param>
+		<param><value><int>84</int></value></param>
+	</params>
+</methodCall>

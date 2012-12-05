@@ -1,0 +1,58 @@
+
+<methodCall>
+	<methodName>makeSum</methodName>
+	<params>
+		<param>
+			<value>
+				<array>
+					<data>
+						<value>
+							<i4>12</i4>
+						</value>
+						<value>
+							<string>Egypt</string>
+						</value>
+						<value>
+							<boolean>0</boolean>
+						</value>
+						<value>
+							<i4>-31</i4>
+						</value>
+						<value>
+						<object oid="http://www.jm.fr/1700000">
+							<fields>
+								<field name="x">
+									<value>
+										<double>10.0</double>
+									</value>
+								</field>
+								<field name="y">
+									<value>
+										<double>20.0</double>
+									</value>
+								</field>
+								<field name="mark">
+									<value>
+										<string>@</string>
+									</value>
+								</field>
+							</fields>
+							<methods>
+								<method language="Java">
+									public String toString()
+									{
+									return this.x + this.mark + this.y ;
+									}
+								</method>
+							</methods>
+						</object>
+					</value>
+					</data>
+				</array>
+			</value>
+		</param>
+	</params>
+</methodCall>
+
+
+

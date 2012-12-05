@@ -1,0 +1,27 @@
+
+<methodCall>
+	<methodName>makeSumTabInt</methodName>
+	<params>
+		<param>
+			<value>
+				<array>
+					<data>
+						<value>
+							<i4>12</i4>
+						</value>
+						<value>
+							<int>10</int>
+						</value>
+						<value>
+							<int>9</int>
+						</value>
+						<value>
+							<i4>-31</i4>
+						</value>
+					</data>
+				</array>
+			</value>
+		</param>
+
+	</params>
+</methodCall>
